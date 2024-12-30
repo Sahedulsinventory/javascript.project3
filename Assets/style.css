@@ -1,0 +1,16 @@
+h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#random{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #0adad3;
+}
+#random button{
+    padding: 20px 30px;
+    cursor: pointer;
+}
